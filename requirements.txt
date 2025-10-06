@@ -1,0 +1,4 @@
+stable-baselines3[extra]
+ipykernel
+numpy==2.0.0
+gymnasium==1.1.1
